@@ -1,0 +1,158 @@
+[
+    {
+        "chef_id":1,
+        "recipes":[{
+            "recipe_name":"Maple Cupcakes",
+            "recipe_image":"https://www.allrecipes.com/thmb/c72uVMxmg3ql6YAxIAftfYHz8XQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/285442-Maple-Cupcakes-4x3-1-2000-bab70b2c24164e278ace6fa837784999.jpg",
+            "ingredients":["1 cup maple syrup","5 tablespoons margarin","1 large egg","1 ½ cups all-purpose flour","½ cup whole wheat flour","2 ¼ teaspoons baking powder"],
+            "cooking_method":" Preheat the oven to 350 degrees F (175 degrees C).<br/> Grease two 12-cup muffin tins.<br/> Beat maple syrup and margarine together in a large bowl until well mixed and creamy. Mix in egg until combined.<br/>  Combine all-purpose and whole wheat flours, baking powder, nutmeg, salt, and ginger in a small bowl. Add dry ingredients to the wet ingredients in batches, alternating with the milk, beating batter briefly after each addition. Fill the prepared muffin cups 3/4 full with batter.<br/>  Bake in the preheated oven until a toothpick inserted in the centers comes out clean, 20 to 30 minutes.",
+            "rating":"3.5"
+        },
+        {
+            "recipe_name":"Gluten-Free Holiday Bliss Cookie Bars",
+            "recipe_image":"https://www.allrecipes.com/thmb/Ynlh9POt31toy8wHehCv6MH-7eI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6236128-46033522d0f64d7fbb3e65b4070e07b4.jpg",
+            "ingredients":["1 cup unsalted butter, softened","¾ cup brown sugar","½ cup white sugar","1 teaspoon baking soda","1 teaspoon vanilla extract","2 large eggs","1 teaspoon ground cinnamon"],
+            "cooking_method":"Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch pan.<br/>  Beat butter, brown sugar, white sugar, eggs, cinnamon, and vanilla extract together in a bowl until smooth.<br/> Stir flour, baking soda, salt, and xanthan gum together in a separate bowl. Stir 1/2 of the flour mixture into the egg mixture; mix well. Stir in remaining flour mixture, along with white chocolate chips and coconut. Mix well. Press into the prepared pan.<br/> Bake in the preheated oven until the edges start to brown, about 23 minutes. Let cool completely, about 30 minutes.<br/> Frost with cream cheese frosting and sprinkle with cranberry bits. Cut into 48 triangles.",
+            "rating":"4"
+        },
+        {
+            "recipe_name":"Sticky Coconut Chicken and Rice Casserole",
+            "recipe_image":"https://www.allrecipes.com/thmb/CuL1hi1QhrJYUN5tKSgoQRAjluA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7482910-sticky-coconut-chicken-and-rice-casserole-ddmfs-4x3-1174-7e0ebf15ed2a4e12a0b5f3db4aef037d.jpg",
+            "ingredients":["6 boneless, skinless chicken thighs (6 thighs), halved","2 teaspoons garlic salt","1/4 cup canola oil, divided","2 tablespoons minced fresh ginger (from a 1-inch piece)","3 cloves garlic, minced","1 3/4 cups chicken broth"],
+            "cooking_method":"Gather all ingredients.<br/>Preheat the oven to 375 degrees F (190 degrees C).<br/>Heat 2 tablespoons oil in a Dutch oven over medium-high until shimmering. Add half of chicken pieces, and cook, turning occasionally, until golden brown on both sides, about 3 minutes per side. Remove to a plate and repeat with remaining chicken pieces.<br/>Heat remaining 2 tablespoons oil in the Dutch oven over medium-high heat (do not wipe out Dutch oven). Add ginger, garlic and rice; cook, stirring constantly, until ginger and garlic are aromatic and rice is evenly coated in oil, 1 minute.",
+            "rating":"5"
+        }
+        ]
+      
+    },
+    {
+        "chef_id":2,
+        "recipes":[{
+            "recipe_name":"Maple Cupcakes",
+            "recipe_image":"https://www.allrecipes.com/thmb/c72uVMxmg3ql6YAxIAftfYHz8XQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/285442-Maple-Cupcakes-4x3-1-2000-bab70b2c24164e278ace6fa837784999.jpg",
+            "ingredients":["1 cup maple syrup","5 tablespoons margarin","1 large egg","1 ½ cups all-purpose flour","½ cup whole wheat flour","2 ¼ teaspoons baking powder"],
+            "cooking_method":" Preheat the oven to 350 degrees F (175 degrees C).<br/> Grease two 12-cup muffin tins.<br/> Beat maple syrup and margarine together in a large bowl until well mixed and creamy. Mix in egg until combined.<br/>  Combine all-purpose and whole wheat flours, baking powder, nutmeg, salt, and ginger in a small bowl. Add dry ingredients to the wet ingredients in batches, alternating with the milk, beating batter briefly after each addition. Fill the prepared muffin cups 3/4 full with batter.<br/>  Bake in the preheated oven until a toothpick inserted in the centers comes out clean, 20 to 30 minutes.",
+            "rating":"3.5"
+        },
+        {
+            "recipe_name":"Gluten-Free Holiday Bliss Cookie Bars",
+            "recipe_image":"https://www.allrecipes.com/thmb/Ynlh9POt31toy8wHehCv6MH-7eI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6236128-46033522d0f64d7fbb3e65b4070e07b4.jpg",
+            "ingredients":["1 cup unsalted butter, softened","¾ cup brown sugar","½ cup white sugar","1 teaspoon baking soda","1 teaspoon vanilla extract","2 large eggs","1 teaspoon ground cinnamon"],
+            "cooking_method":"Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch pan.<br/>  Beat butter, brown sugar, white sugar, eggs, cinnamon, and vanilla extract together in a bowl until smooth.<br/> Stir flour, baking soda, salt, and xanthan gum together in a separate bowl. Stir 1/2 of the flour mixture into the egg mixture; mix well. Stir in remaining flour mixture, along with white chocolate chips and coconut. Mix well. Press into the prepared pan.<br/> Bake in the preheated oven until the edges start to brown, about 23 minutes. Let cool completely, about 30 minutes.<br/> Frost with cream cheese frosting and sprinkle with cranberry bits. Cut into 48 triangles.",
+            "rating":"4"
+        },
+        {
+            "recipe_name":"Sticky Coconut Chicken and Rice Casserole",
+            "recipe_image":"https://www.allrecipes.com/thmb/CuL1hi1QhrJYUN5tKSgoQRAjluA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7482910-sticky-coconut-chicken-and-rice-casserole-ddmfs-4x3-1174-7e0ebf15ed2a4e12a0b5f3db4aef037d.jpg",
+            "ingredients":["6 boneless, skinless chicken thighs (6 thighs), halved","2 teaspoons garlic salt","1/4 cup canola oil, divided","2 tablespoons minced fresh ginger (from a 1-inch piece)","3 cloves garlic, minced","1 3/4 cups chicken broth"],
+            "cooking_method":"Gather all ingredients.<br/>Preheat the oven to 375 degrees F (190 degrees C).<br/>Heat 2 tablespoons oil in a Dutch oven over medium-high until shimmering. Add half of chicken pieces, and cook, turning occasionally, until golden brown on both sides, about 3 minutes per side. Remove to a plate and repeat with remaining chicken pieces.<br/>Heat remaining 2 tablespoons oil in the Dutch oven over medium-high heat (do not wipe out Dutch oven). Add ginger, garlic and rice; cook, stirring constantly, until ginger and garlic are aromatic and rice is evenly coated in oil, 1 minute.",
+            "rating":"5"
+        }
+        ]
+      
+    },
+    {
+        "chef_id":3,
+        "recipes":[{
+            "recipe_name":"Maple Cupcakes",
+            "recipe_image":"https://www.allrecipes.com/thmb/c72uVMxmg3ql6YAxIAftfYHz8XQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/285442-Maple-Cupcakes-4x3-1-2000-bab70b2c24164e278ace6fa837784999.jpg",
+            "ingredients":["1 cup maple syrup","5 tablespoons margarin","1 large egg","1 ½ cups all-purpose flour","½ cup whole wheat flour","2 ¼ teaspoons baking powder"],
+            "cooking_method":" Preheat the oven to 350 degrees F (175 degrees C).<br/> Grease two 12-cup muffin tins.<br/> Beat maple syrup and margarine together in a large bowl until well mixed and creamy. Mix in egg until combined.<br/>  Combine all-purpose and whole wheat flours, baking powder, nutmeg, salt, and ginger in a small bowl. Add dry ingredients to the wet ingredients in batches, alternating with the milk, beating batter briefly after each addition. Fill the prepared muffin cups 3/4 full with batter.<br/>  Bake in the preheated oven until a toothpick inserted in the centers comes out clean, 20 to 30 minutes.",
+            "rating":"3.5"
+        },
+        {
+            "recipe_name":"Gluten-Free Holiday Bliss Cookie Bars",
+            "recipe_image":"https://www.allrecipes.com/thmb/Ynlh9POt31toy8wHehCv6MH-7eI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6236128-46033522d0f64d7fbb3e65b4070e07b4.jpg",
+            "ingredients":["1 cup unsalted butter, softened","¾ cup brown sugar","½ cup white sugar","1 teaspoon baking soda","1 teaspoon vanilla extract","2 large eggs","1 teaspoon ground cinnamon"],
+            "cooking_method":"Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch pan.<br/>  Beat butter, brown sugar, white sugar, eggs, cinnamon, and vanilla extract together in a bowl until smooth.<br/> Stir flour, baking soda, salt, and xanthan gum together in a separate bowl. Stir 1/2 of the flour mixture into the egg mixture; mix well. Stir in remaining flour mixture, along with white chocolate chips and coconut. Mix well. Press into the prepared pan.<br/> Bake in the preheated oven until the edges start to brown, about 23 minutes. Let cool completely, about 30 minutes.<br/> Frost with cream cheese frosting and sprinkle with cranberry bits. Cut into 48 triangles.",
+            "rating":"4"
+        },
+        {
+            "recipe_name":"Sticky Coconut Chicken and Rice Casserole",
+            "recipe_image":"https://www.allrecipes.com/thmb/CuL1hi1QhrJYUN5tKSgoQRAjluA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7482910-sticky-coconut-chicken-and-rice-casserole-ddmfs-4x3-1174-7e0ebf15ed2a4e12a0b5f3db4aef037d.jpg",
+            "ingredients":["6 boneless, skinless chicken thighs (6 thighs), halved","2 teaspoons garlic salt","1/4 cup canola oil, divided","2 tablespoons minced fresh ginger (from a 1-inch piece)","3 cloves garlic, minced","1 3/4 cups chicken broth"],
+            "cooking_method":"Gather all ingredients.<br/>Preheat the oven to 375 degrees F (190 degrees C).<br/>Heat 2 tablespoons oil in a Dutch oven over medium-high until shimmering. Add half of chicken pieces, and cook, turning occasionally, until golden brown on both sides, about 3 minutes per side. Remove to a plate and repeat with remaining chicken pieces.<br/>Heat remaining 2 tablespoons oil in the Dutch oven over medium-high heat (do not wipe out Dutch oven). Add ginger, garlic and rice; cook, stirring constantly, until ginger and garlic are aromatic and rice is evenly coated in oil, 1 minute.",
+            "rating":"5"
+        }
+        ]
+      
+    },
+    {
+        "chef_id":4,
+        "recipes":[{
+            "recipe_name":"Maple Cupcakes",
+            "recipe_image":"https://www.allrecipes.com/thmb/c72uVMxmg3ql6YAxIAftfYHz8XQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/285442-Maple-Cupcakes-4x3-1-2000-bab70b2c24164e278ace6fa837784999.jpg",
+            "ingredients":["1 cup maple syrup","5 tablespoons margarin","1 large egg","1 ½ cups all-purpose flour","½ cup whole wheat flour","2 ¼ teaspoons baking powder"],
+            "cooking_method":" Preheat the oven to 350 degrees F (175 degrees C).<br/> Grease two 12-cup muffin tins.<br/> Beat maple syrup and margarine together in a large bowl until well mixed and creamy. Mix in egg until combined.<br/>  Combine all-purpose and whole wheat flours, baking powder, nutmeg, salt, and ginger in a small bowl. Add dry ingredients to the wet ingredients in batches, alternating with the milk, beating batter briefly after each addition. Fill the prepared muffin cups 3/4 full with batter.<br/>  Bake in the preheated oven until a toothpick inserted in the centers comes out clean, 20 to 30 minutes.",
+            "rating":"3.5"
+        },
+        {
+            "recipe_name":"Gluten-Free Holiday Bliss Cookie Bars",
+            "recipe_image":"https://www.allrecipes.com/thmb/Ynlh9POt31toy8wHehCv6MH-7eI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6236128-46033522d0f64d7fbb3e65b4070e07b4.jpg",
+            "ingredients":["1 cup unsalted butter, softened","¾ cup brown sugar","½ cup white sugar","1 teaspoon baking soda","1 teaspoon vanilla extract","2 large eggs","1 teaspoon ground cinnamon"],
+            "cooking_method":"Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch pan.<br/>  Beat butter, brown sugar, white sugar, eggs, cinnamon, and vanilla extract together in a bowl until smooth.<br/> Stir flour, baking soda, salt, and xanthan gum together in a separate bowl. Stir 1/2 of the flour mixture into the egg mixture; mix well. Stir in remaining flour mixture, along with white chocolate chips and coconut. Mix well. Press into the prepared pan.<br/> Bake in the preheated oven until the edges start to brown, about 23 minutes. Let cool completely, about 30 minutes.<br/> Frost with cream cheese frosting and sprinkle with cranberry bits. Cut into 48 triangles.",
+            "rating":"4"
+        },
+        {
+            "recipe_name":"Sticky Coconut Chicken and Rice Casserole",
+            "recipe_image":"https://www.allrecipes.com/thmb/CuL1hi1QhrJYUN5tKSgoQRAjluA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7482910-sticky-coconut-chicken-and-rice-casserole-ddmfs-4x3-1174-7e0ebf15ed2a4e12a0b5f3db4aef037d.jpg",
+            "ingredients":["6 boneless, skinless chicken thighs (6 thighs), halved","2 teaspoons garlic salt","1/4 cup canola oil, divided","2 tablespoons minced fresh ginger (from a 1-inch piece)","3 cloves garlic, minced","1 3/4 cups chicken broth"],
+            "cooking_method":"Gather all ingredients.<br/>Preheat the oven to 375 degrees F (190 degrees C).<br/>Heat 2 tablespoons oil in a Dutch oven over medium-high until shimmering. Add half of chicken pieces, and cook, turning occasionally, until golden brown on both sides, about 3 minutes per side. Remove to a plate and repeat with remaining chicken pieces.<br/>Heat remaining 2 tablespoons oil in the Dutch oven over medium-high heat (do not wipe out Dutch oven). Add ginger, garlic and rice; cook, stirring constantly, until ginger and garlic are aromatic and rice is evenly coated in oil, 1 minute.",
+            "rating":"5"
+        }
+        ]
+      
+    },
+    {
+        "chef_id":5,
+        "recipes":[{
+            "recipe_name":"Maple Cupcakes",
+            "recipe_image":"https://www.allrecipes.com/thmb/c72uVMxmg3ql6YAxIAftfYHz8XQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/285442-Maple-Cupcakes-4x3-1-2000-bab70b2c24164e278ace6fa837784999.jpg",
+            "ingredients":["1 cup maple syrup","5 tablespoons margarin","1 large egg","1 ½ cups all-purpose flour","½ cup whole wheat flour","2 ¼ teaspoons baking powder"],
+            "cooking_method":" Preheat the oven to 350 degrees F (175 degrees C).<br/> Grease two 12-cup muffin tins.<br/> Beat maple syrup and margarine together in a large bowl until well mixed and creamy. Mix in egg until combined.<br/>  Combine all-purpose and whole wheat flours, baking powder, nutmeg, salt, and ginger in a small bowl. Add dry ingredients to the wet ingredients in batches, alternating with the milk, beating batter briefly after each addition. Fill the prepared muffin cups 3/4 full with batter.<br/>  Bake in the preheated oven until a toothpick inserted in the centers comes out clean, 20 to 30 minutes.",
+            "rating":"3.5"
+        },
+        {
+            "recipe_name":"Gluten-Free Holiday Bliss Cookie Bars",
+            "recipe_image":"https://www.allrecipes.com/thmb/Ynlh9POt31toy8wHehCv6MH-7eI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6236128-46033522d0f64d7fbb3e65b4070e07b4.jpg",
+            "ingredients":["1 cup unsalted butter, softened","¾ cup brown sugar","½ cup white sugar","1 teaspoon baking soda","1 teaspoon vanilla extract","2 large eggs","1 teaspoon ground cinnamon"],
+            "cooking_method":"Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch pan.<br/>  Beat butter, brown sugar, white sugar, eggs, cinnamon, and vanilla extract together in a bowl until smooth.<br/> Stir flour, baking soda, salt, and xanthan gum together in a separate bowl. Stir 1/2 of the flour mixture into the egg mixture; mix well. Stir in remaining flour mixture, along with white chocolate chips and coconut. Mix well. Press into the prepared pan.<br/> Bake in the preheated oven until the edges start to brown, about 23 minutes. Let cool completely, about 30 minutes.<br/> Frost with cream cheese frosting and sprinkle with cranberry bits. Cut into 48 triangles.",
+            "rating":"4"
+        },
+        {
+            "recipe_name":"Sticky Coconut Chicken and Rice Casserole",
+            "recipe_image":"https://www.allrecipes.com/thmb/CuL1hi1QhrJYUN5tKSgoQRAjluA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7482910-sticky-coconut-chicken-and-rice-casserole-ddmfs-4x3-1174-7e0ebf15ed2a4e12a0b5f3db4aef037d.jpg",
+            "ingredients":["6 boneless, skinless chicken thighs (6 thighs), halved","2 teaspoons garlic salt","1/4 cup canola oil, divided","2 tablespoons minced fresh ginger (from a 1-inch piece)","3 cloves garlic, minced","1 3/4 cups chicken broth"],
+            "cooking_method":"Gather all ingredients.<br/>Preheat the oven to 375 degrees F (190 degrees C).<br/>Heat 2 tablespoons oil in a Dutch oven over medium-high until shimmering. Add half of chicken pieces, and cook, turning occasionally, until golden brown on both sides, about 3 minutes per side. Remove to a plate and repeat with remaining chicken pieces.<br/>Heat remaining 2 tablespoons oil in the Dutch oven over medium-high heat (do not wipe out Dutch oven). Add ginger, garlic and rice; cook, stirring constantly, until ginger and garlic are aromatic and rice is evenly coated in oil, 1 minute.",
+            "rating":"5"
+        }
+        ]
+      
+    },
+    {
+        "chef_id":6,
+        "recipes":[{
+            "recipe_name":"Maple Cupcakes",
+            "recipe_image":"https://www.allrecipes.com/thmb/c72uVMxmg3ql6YAxIAftfYHz8XQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/285442-Maple-Cupcakes-4x3-1-2000-bab70b2c24164e278ace6fa837784999.jpg",
+            "ingredients":["1 cup maple syrup","5 tablespoons margarin","1 large egg","1 ½ cups all-purpose flour","½ cup whole wheat flour","2 ¼ teaspoons baking powder"],
+            "cooking_method":" Preheat the oven to 350 degrees F (175 degrees C).<br/> Grease two 12-cup muffin tins.<br/> Beat maple syrup and margarine together in a large bowl until well mixed and creamy. Mix in egg until combined.<br/>  Combine all-purpose and whole wheat flours, baking powder, nutmeg, salt, and ginger in a small bowl. Add dry ingredients to the wet ingredients in batches, alternating with the milk, beating batter briefly after each addition. Fill the prepared muffin cups 3/4 full with batter.<br/>  Bake in the preheated oven until a toothpick inserted in the centers comes out clean, 20 to 30 minutes.",
+            "rating":"3.5"
+        },
+        {
+            "recipe_name":"Gluten-Free Holiday Bliss Cookie Bars",
+            "recipe_image":"https://www.allrecipes.com/thmb/Ynlh9POt31toy8wHehCv6MH-7eI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6236128-46033522d0f64d7fbb3e65b4070e07b4.jpg",
+            "ingredients":["1 cup unsalted butter, softened","¾ cup brown sugar","½ cup white sugar","1 teaspoon baking soda","1 teaspoon vanilla extract","2 large eggs","1 teaspoon ground cinnamon"],
+            "cooking_method":"Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch pan.<br/>  Beat butter, brown sugar, white sugar, eggs, cinnamon, and vanilla extract together in a bowl until smooth.<br/> Stir flour, baking soda, salt, and xanthan gum together in a separate bowl. Stir 1/2 of the flour mixture into the egg mixture; mix well. Stir in remaining flour mixture, along with white chocolate chips and coconut. Mix well. Press into the prepared pan.<br/> Bake in the preheated oven until the edges start to brown, about 23 minutes. Let cool completely, about 30 minutes.<br/> Frost with cream cheese frosting and sprinkle with cranberry bits. Cut into 48 triangles.",
+            "rating":"4"
+        },
+        {
+            "recipe_name":"Sticky Coconut Chicken and Rice Casserole",
+            "recipe_image":"https://www.allrecipes.com/thmb/CuL1hi1QhrJYUN5tKSgoQRAjluA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7482910-sticky-coconut-chicken-and-rice-casserole-ddmfs-4x3-1174-7e0ebf15ed2a4e12a0b5f3db4aef037d.jpg",
+            "ingredients":["6 boneless, skinless chicken thighs (6 thighs), halved","2 teaspoons garlic salt","1/4 cup canola oil, divided","2 tablespoons minced fresh ginger (from a 1-inch piece)","3 cloves garlic, minced","1 3/4 cups chicken broth"],
+            "cooking_method":"Gather all ingredients.<br/>Preheat the oven to 375 degrees F (190 degrees C).<br/>Heat 2 tablespoons oil in a Dutch oven over medium-high until shimmering. Add half of chicken pieces, and cook, turning occasionally, until golden brown on both sides, about 3 minutes per side. Remove to a plate and repeat with remaining chicken pieces.<br/>Heat remaining 2 tablespoons oil in the Dutch oven over medium-high heat (do not wipe out Dutch oven). Add ginger, garlic and rice; cook, stirring constantly, until ginger and garlic are aromatic and rice is evenly coated in oil, 1 minute.",
+            "rating":"5"
+        }
+        ]
+      
+    }
+]
